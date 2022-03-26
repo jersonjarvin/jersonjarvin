@@ -19,9 +19,8 @@ I´m a developer Full Stack with 5+ year of experience, working in different com
 
 ### Connect with me:
 
-[!<img align="left" alt="arnabdey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](jerson-romero.com)
-[!<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/jerson-romero-diaz-68a34a113)
-![alt text](https://www.linkedin.com/in/jerson-romero-diaz-68a34a113)
+[!<img align="left" alt="arnabdey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://twitter.com/intent/follow?screen_name=catalinmpit)
+[!<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jerson-romero-diaz-68a34a113)
 
 <br />
 **Languages and Tools:**  
