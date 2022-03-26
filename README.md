@@ -17,6 +17,24 @@ I´m a developer Full Stack with 5+ year of experience, working in different com
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+### Connect with me:
+
+[<img align="left" alt="arnabdey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></code>
+
 
 
 <!---
