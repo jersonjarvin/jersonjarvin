@@ -8,7 +8,7 @@ I´m a developer Full Stack with 5+ year of experience, working in different com
 
 ⭐ Mobile: Android Studio (MVP, MVVM).
 
-✔️ knowledge in architectures based on microservices en NodeJs and C# .Net.
+✔️ knowledge in architectures based on microservices in NodeJs and C# .Net.
 
 - 💬 Ask me about anything, I am happy to help;
 - 👋 Hi, I’m @jersonjarvin
