@@ -1,7 +1,7 @@
 Hello Coders 🚀 !!!
 
 I´m a developer Full Stack with 5+ year of experience, working in different companies gave me the opportunity to work in a wide spectrum of technologies.
-Backend: Java, C# (Asp.Net, Asp.Net framework, Asp.Net Core), NodeJs. Front-End: C# (Asp.Net, Asp.Net framework, Asp.Net Core), Angular, Javascript, Html5, css, Bootstrap.
+Backend: Java, C# (Asp.Net, Asp.Net framework, Asp.Net Core), NodeJs. Front-End: C# (Asp.Net, Asp.Net framework, Asp.Net Core), Angular, Javascript, Html5, css, Bootstrap. knowledge in architectures based on microservices en NodeJs and C# .Net.
 
 
 - 👋 Hi, I’m @jersonjarvin
