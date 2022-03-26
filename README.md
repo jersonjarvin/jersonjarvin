@@ -22,6 +22,7 @@ I´m a developer Full Stack with 5+ year of experience, working in different com
 [<img align="left" alt="arnabdey.co" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://jerson-romero.com)
 [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jerson-romero-diaz-68a34a113)
 <br/>
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
