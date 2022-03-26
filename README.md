@@ -1,3 +1,9 @@
+Hello Coders 🚀 !!!
+
+I´m a developer Full Stack with 5+ year of experience, working in different companies gave me the opportunity to work in a wide spectrum of technologies.
+Backend: Java (Sprint Boot), C# (Asp.Net, Asp.Net framework, Asp.Net Core)
+
+
 - 👋 Hi, I’m @jersonjarvin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
