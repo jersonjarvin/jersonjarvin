@@ -33,7 +33,7 @@ I´m a developer Full Stack with 5+ year of experience, working in different com
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></code>
-
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
 
 
 <!---
