@@ -42,6 +42,7 @@ I´m a developer Full Stack with 5+ year of experience, working in different com
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
