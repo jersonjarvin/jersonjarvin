@@ -4,7 +4,7 @@ I´m a developer Full Stack with 5+ year of experience, working in different com
 
 ⭐ Backend: Java, C# (Asp.Net, Asp.Net framework, Asp.Net Core), NodeJs. 
 
-⭐ Front-End: C# (Asp.Net, Asp.Net framework, Asp.Net Core), Angular, Javascript, Html5, css, Bootstrap. 
+⭐ Front-End: C# (Asp.Net, Asp.Net framework, Asp.Net Core), Angular, React, Javascript, Html5, css, Bootstrap. 
 
 ⭐ Mobile: Android Studio (MVP, MVVM).
 
